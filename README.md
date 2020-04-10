@@ -1,6 +1,6 @@
 # Overview:
 
-I focus at this sample project on using how to create iOS app 100% programmatic UI. I like the Interface Builder and I work on it at my projects, but at this repo I create some of extensions to help who is use code at UI to write code less.
+I focus at this sample project on how to create iOS app 100% programmatic UI. I like the Interface Builder and I work on it at my projects, but at this repo I create some of extensions to help who is use code at UI to write less code.
 
 
 
