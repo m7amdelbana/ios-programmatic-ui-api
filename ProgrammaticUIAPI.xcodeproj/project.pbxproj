@@ -105,12 +105,12 @@
 		04E6FA712441251B0060B831 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				04E6FA73244125410060B831 /* UIView */,
+				04E6FA7E244127370060B831 /* UIView */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
 		};
-		04E6FA73244125410060B831 /* UIView */ = {
+		04E6FA7E244127370060B831 /* UIView */ = {
 			isa = PBXGroup;
 			children = (
 				04E6FA74244125410060B831 /* UIView+Extensions.swift */,
@@ -119,8 +119,7 @@
 				04E6FA77244125410060B831 /* UIView+ConditionAnchors.swift */,
 				04E6FA78244125410060B831 /* UIView+GeometryExtension.swift */,
 			);
-			name = UIView;
-			path = UIView/UIView;
+			path = UIView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
